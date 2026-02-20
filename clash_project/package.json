@@ -1,0 +1,14 @@
+{
+  "name": "643439669f129be4",
+  "main": "643439669f129be4@695.js",
+  "version": "695.0.0",
+  "homepage": "https://observablehq.com/d/643439669f129be4",
+  "author": {
+    "name": "DATA 200",
+    "url": "https://observablehq.com/@jmu-data200"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}

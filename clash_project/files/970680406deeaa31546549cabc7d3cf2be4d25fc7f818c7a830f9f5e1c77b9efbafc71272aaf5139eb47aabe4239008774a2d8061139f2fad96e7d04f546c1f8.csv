@@ -1,0 +1,165 @@
+card_name,cost,rarity,has_evo,is_evo,is_tower_troop
+Cannoneer,0,Epic,FALSE,FALSE,TRUE
+Dagger Duchess,0,Legendary,FALSE,FALSE,TRUE
+Mirror,0,Epic,FALSE,FALSE,FALSE
+Royal Chef,0,Legendary,FALSE,FALSE,TRUE
+Tower Princess,0,Common,FALSE,FALSE,TRUE
+Electro Spirit,1,Common,FALSE,FALSE,FALSE
+Fire Spirit,1,Common,FALSE,FALSE,FALSE
+Heal Spirit,1,Rare,FALSE,FALSE,FALSE
+Ice Spirit,1,Common,TRUE,FALSE,FALSE
+Ice Spirit Evolution,1,Common,FALSE,TRUE,FALSE
+Skeletons,1,Common,TRUE,FALSE,FALSE
+Skeletons Evolution,1,Common,FALSE,TRUE,FALSE
+Barbarian Barrel,2,Epic,FALSE,FALSE,FALSE
+Bats,2,Common,TRUE,FALSE,FALSE
+Bats Evolution,2,Common,FALSE,TRUE,FALSE
+Berserker,2,Common,FALSE,FALSE,FALSE
+Bomber,2,Common,TRUE,FALSE,FALSE
+Bomber Evolution,2,Common,FALSE,TRUE,FALSE
+Giant Snowball,2,Common,TRUE,FALSE,FALSE
+Giant Snowball Evolution,2,Common,FALSE,TRUE,FALSE
+Goblin Curse,2,Rare,FALSE,FALSE,FALSE
+Goblins,2,Common,FALSE,FALSE,FALSE
+Ice Golem,2,Rare,FALSE,FALSE,FALSE
+Rage,2,Rare,FALSE,FALSE,FALSE
+Spear Goblins,2,Common,FALSE,FALSE,FALSE
+Suspicious Bush,2,Rare,FALSE,FALSE,FALSE
+The Log,2,Legendary,FALSE,FALSE,FALSE
+Wall Breakers,2,Epic,TRUE,FALSE,FALSE
+Wall Breakers Evolution,2,Epic,FALSE,TRUE,FALSE
+Zap,2,Common,TRUE,FALSE,FALSE
+Zap Evolution,2,Common,FALSE,TRUE,FALSE
+Archers,3,Common,TRUE,FALSE,FALSE
+Archers Evolution,3,Common,FALSE,TRUE,FALSE
+Arrows,3,Common,FALSE,FALSE,FALSE
+Bandit,3,Legendary,FALSE,FALSE,FALSE
+Cannon,3,Common,TRUE,FALSE,FALSE
+Cannon Evolution,3,Rare,FALSE,TRUE,FALSE
+Clone,3,Rare,FALSE,FALSE,FALSE
+Dart Goblin,3,Rare,TRUE,FALSE,FALSE
+Dart Goblin Evolution,3,Rare,FALSE,TRUE,FALSE
+Earthquake,3,Rare,FALSE,FALSE,FALSE
+Elixir Golem,3,Rare,FALSE,FALSE,FALSE
+Firecracker,3,Common,TRUE,FALSE,FALSE
+Firecracker Evolution,3,Common,FALSE,TRUE,FALSE
+Fisherman,3,Legendary,FALSE,FALSE,FALSE
+Goblin Barrel,3,Epic,TRUE,FALSE,FALSE
+Goblin Barrel Evolution,3,Epic,FALSE,TRUE,FALSE
+Goblin Gang,3,Common,FALSE,FALSE,FALSE
+Guards,3,Epic,FALSE,FALSE,FALSE
+Ice Wizard,3,Legendary,FALSE,FALSE,FALSE
+Knight,3,Common,TRUE,FALSE,FALSE
+Knight Evolution,3,Common,FALSE,TRUE,FALSE
+Little Prince,3,Champion,FALSE,FALSE,FALSE
+Mega Minion,3,Rare,FALSE,FALSE,FALSE
+Miner,3,Legendary,FALSE,FALSE,FALSE
+Minions,3,Common,FALSE,FALSE,FALSE
+Princess,3,Legendary,FALSE,FALSE,FALSE
+Royal Delivery,3,Common,FALSE,FALSE,FALSE
+Royal Ghost,3,Legendary,TRUE,FALSE,FALSE
+Skeleton Army,3,Epic,TRUE,FALSE,FALSE
+Skeleton Barrel,3,Common,TRUE,FALSE,FALSE
+Skeleton Barrel Evolution,3,Common,FALSE,TRUE,FALSE
+Tombstone,3,Rare,FALSE,FALSE,FALSE
+Tornado,3,Rare,FALSE,FALSE,FALSE
+Vines,3,Rare,FALSE,FALSE,FALSE
+Void,3,Rare,FALSE,FALSE,FALSE
+Baby Dragon,4,Epic,TRUE,FALSE,FALSE
+Battle Healer,4,Rare,FALSE,FALSE,FALSE
+Battle Ram,4,Rare,TRUE,FALSE,FALSE
+Battle Ram Evolution,4,Rare,FALSE,TRUE,FALSE
+Bomb Tower,4,Rare,FALSE,FALSE,FALSE
+Dark Prince,4,Epic,FALSE,FALSE,FALSE
+Electro Wizard,4,Legendary,FALSE,FALSE,FALSE
+Fireball,4,Rare,FALSE,FALSE,FALSE
+Flying Machine,4,Rare,FALSE,FALSE,FALSE
+Freeze,4,Epic,FALSE,FALSE,FALSE
+Furnace,4,Rare,TRUE,FALSE,FALSE
+Furnace Evolution,4,Rare,FALSE,TRUE,FALSE
+Goblin Cage,4,Rare,TRUE,FALSE,FALSE
+Goblin Cage Evolution,4,Rare,FALSE,TRUE,FALSE
+Goblin Demolisher,4,Rare,FALSE,FALSE,FALSE
+Goblin Drill,4,Epic,TRUE,FALSE,FALSE
+Goblin Drill Evolution,4,Epic,FALSE,TRUE,FALSE
+Goblin Hut,4,Rare,FALSE,FALSE,FALSE
+Golden Knight,4,Champion,FALSE,FALSE,FALSE
+Hog Rider,4,Rare,FALSE,FALSE,FALSE
+Hunter,4,Epic,TRUE,FALSE,FALSE
+Hunter Evolution,4,Epic,FALSE,TRUE,FALSE
+Inferno Dragon,4,Legendary,TRUE,FALSE,FALSE
+Inferno Dragon Evolution,4,Legendary,FALSE,TRUE,FALSE
+Lumberjack,4,Legendary,TRUE,FALSE,FALSE
+Lumberjack Evolution,4,Legendary,FALSE,TRUE,FALSE
+Magic Archer,4,Legendary,FALSE,FALSE,FALSE
+Mighty Miner,4,Champion,FALSE,FALSE,FALSE
+Mini P.E.K.K.A,4,Rare,FALSE,FALSE,FALSE
+Mortar,4,Common,TRUE,FALSE,FALSE
+Mortar Evolution,4,Common,FALSE,TRUE,FALSE
+Mother Witch,4,Legendary,FALSE,FALSE,FALSE
+Musketeer,4,Rare,TRUE,FALSE,FALSE
+Musketeer Evolution,4,Rare,FALSE,TRUE,FALSE
+Night Witch,4,Legendary,FALSE,FALSE,FALSE
+Phoenix,4,Legendary,FALSE,FALSE,FALSE
+Poison,4,Rare,FALSE,FALSE,FALSE
+Rune Giant,4,Epic,FALSE,FALSE,FALSE
+Skeleton Dragons,4,Common,FALSE,FALSE,FALSE
+Skeleton King,4,Champion,FALSE,FALSE,FALSE
+Tesla,4,Common,TRUE,FALSE,FALSE
+Tesla Evolution,4,Common,FALSE,TRUE,FALSE
+Valkyrie,4,Rare,TRUE,FALSE,FALSE
+Valkyrie Evolution,4,Rare,FALSE,TRUE,FALSE
+Zappies,4,Rare,FALSE,FALSE,FALSE
+Archer Queen,5,Champion,FALSE,FALSE,FALSE
+Balloon,5,Epic,FALSE,FALSE,FALSE
+Barbarians,5,Common,TRUE,FALSE,FALSE
+Barbarians Evolution,5,Common,FALSE,TRUE,FALSE
+Bowler,5,Epic,FALSE,FALSE,FALSE
+Cannon Cart,5,Epic,FALSE,FALSE,FALSE
+Electro Dragon,5,Epic,TRUE,FALSE,FALSE
+Electro Dragon Evolution,5,Epic,FALSE,TRUE,FALSE
+Executioner,5,Epic,TRUE,FALSE,FALSE
+Executioner Evolution,5,Epic,FALSE,TRUE,FALSE
+Giant,5,Rare,FALSE,FALSE,FALSE
+Goblin Machine,5,Legendary,FALSE,FALSE,FALSE
+Goblinstein,5,Champion,FALSE,FALSE,FALSE
+Graveyard,5,Legendary,FALSE,FALSE,FALSE
+Inferno Tower,5,Rare,FALSE,FALSE,FALSE
+Minion Horde,5,Common,FALSE,FALSE,FALSE
+Monk,5,Champion,FALSE,FALSE,FALSE
+Prince,5,Epic,FALSE,FALSE,FALSE
+Ram Rider,5,Legendary,FALSE,FALSE,FALSE
+Rascals,5,Common,FALSE,FALSE,FALSE
+Royal Hogs,5,Rare,TRUE,FALSE,FALSE
+Royal Hogs Evolution,5,Rare,FALSE,TRUE,FALSE
+Witch,5,Epic,TRUE,FALSE,FALSE
+Witch Evolution,5,Epic,FALSE,TRUE,FALSE
+Wizard,5,Rare,TRUE,FALSE,FALSE
+Wizard Evolution,5,Rare,FALSE,TRUE,FALSE
+Barbarian Hut,6,Rare,FALSE,FALSE,FALSE
+Boss Bandit,6,Champion,FALSE,FALSE,FALSE
+Elite Barbarians,6,Common,FALSE,FALSE,FALSE
+Elixir Collector,6,Rare,FALSE,FALSE,FALSE
+Giant Skeleton,6,Epic,FALSE,FALSE,FALSE
+Goblin Giant,6,Epic,TRUE,FALSE,FALSE
+Goblin Giant Evolution,6,Epic,FALSE,TRUE,FALSE
+Lightning,6,Rare,FALSE,FALSE,FALSE
+Rocket,6,Epic,FALSE,FALSE,FALSE
+Royal Giant,6,Common,TRUE,FALSE,FALSE
+Royal Giant Evolution,6,Common,FALSE,TRUE,FALSE
+Sparky,6,Legendary,FALSE,FALSE,FALSE
+Spirit Empress,6,Legendary,FALSE,FALSE,FALSE
+X-Bow,6,Epic,FALSE,FALSE,FALSE
+Electro Giant,7,Epic,FALSE,FALSE,FALSE
+Lava Hound,7,Legendary,FALSE,FALSE,FALSE
+Mega Knight,7,Legendary,TRUE,FALSE,FALSE
+Mega Knight Evolution,7,Legendary,FALSE,TRUE,FALSE
+P.E.K.K.A,7,Epic,TRUE,FALSE,FALSE
+P.E.K.K.A Evolution,7,Epic,FALSE,TRUE,FALSE
+Royal Recruits,7,Common,TRUE,FALSE,FALSE
+Royal Recruits Evolution,7,Common,FALSE,TRUE,FALSE
+Golem,8,Epic,FALSE,FALSE,FALSE
+Three Musketeers,9,Rare,FALSE,FALSE,FALSE
+Royal Ghost Evolution,3,Legendary,FALSE,TRUE,FALSE
+Skeleton Army Evolution,3,Epic,FALSE,TRUE,FALSE
+Baby Dragon Evolution,4,Epic,FALSE,TRUE,FALSE
